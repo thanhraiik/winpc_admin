@@ -6,7 +6,6 @@ import {
   SignInButton,
   SignedIn,
   SignedOut,
-  UserButton
 } from '@clerk/nextjs'
 import LeftSideBar from "@/components/layout/LeftSideBar";
 import TopBar from "@/components/layout/TopBar";
